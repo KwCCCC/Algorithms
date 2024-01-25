@@ -1,0 +1,13 @@
+*.pdb
+*.obj
+*.exe
+*.ilk
+*.dSYM/*
+*.xml
+*.cmake
+*.plist
+CMake*
+*.iml
+.DS_Store
+.idea/*
+.vscode/*
