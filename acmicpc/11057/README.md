@@ -1,6 +1,6 @@
-# [SILVER 2] [1, 2, 3 더하기 3]
+# [SILVER 1] [오르막 수]
 
-[문제 링크](https://www.acmicpc.net/problem/15988) 
+[문제 링크](https://www.acmicpc.net/problem/11057) 
 
 ### 성능 요약
 
@@ -14,7 +14,9 @@
 
 ### 문제 요약 및 해결 방안 스케치
 
-9095 (1, 2, 3 더하기) 를 약간만 수정하면 된다.
+2차원 dp로 깔끔하게 해결하자.
+d[N][K] = N자릿수의 마지막 자리가 K인 수의 개수
+d[N][K] = sum of d[N-1][j] (j : 0 ~ K)
 
 ### Solution
 
