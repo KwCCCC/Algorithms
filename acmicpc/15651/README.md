@@ -1,0 +1,25 @@
+# [SILVER 3] [N과 M (3)]
+
+[문제 링크](https://www.acmicpc.net/problem/15651) 
+
+### 성능 요약
+
+### 분류
+
+<details><summary>문제 분류</summary> 
+
+[백트래킹]
+
+</details>
+
+### 문제 요약 및 해결 방안 스케치
+
+재귀로 해결하자.
+
+### Solution
+
+<details><summary>Solution</summary> 
+
+[Source Code]
+
+</details>
